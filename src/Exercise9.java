@@ -15,7 +15,7 @@ public class Exercise9 {
         // instanciamos un objeto de la clase Scanner
         Scanner input = new Scanner(System.in);
         double datoGrados;
-        System.out.print("Ingrese el valor en grados Celsius");
+        System.out.print("Ingrese el valor en grados Celsius: ");
         datoGrados = input.nextDouble();
 
         //Proceso de las operaciones de conversion de la temperatura
